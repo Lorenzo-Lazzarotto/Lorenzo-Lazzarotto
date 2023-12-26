@@ -36,13 +36,16 @@ Social media Links
   <a href="https://www.linkedin.com/in/lorenzo-lazzarotto/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/lorenzolazzarotto"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
----
+
 
 <!--
+---
+
+
 Technologies Dropdown
 
 <details>
-<summary>Technologies I work with</summary>
+<summary><b> Technologies I work with</b></summary>
 <br>
 
 ### Main Languages.
@@ -74,3 +77,19 @@ Projects Dropdown
 This is how you dropdown.
 </details>
 -->
+## Check my Resume's
+<table align="left">
+ <tr><td>
+
+ <div>
+
+<img style="vertical-align:middle" src="img/brazil_flag.png" height="25"> &nbsp;[Português](./Resumes/LorenzoLazzarotto_Resume_PT_BR.pdf)
+ </div></td></tr>
+ 
+ <tr><td>
+
+ <div>
+
+ <img style="vertical-align:middle" src="img/usa_flag.png" height="25"> &nbsp;[English](./Resumes/LorenzoLazzarotto_Resume_Eng.pdf)
+ </div></td></tr>
+</table>
